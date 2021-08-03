@@ -1389,7 +1389,7 @@ section {
 }
 
 .team .member .member-img:after {
-  position: absolute;
+  position: relative;
   content: "";
   left: 0;
   bottom: 0;
@@ -1429,11 +1429,11 @@ section {
 }
 
 .team .member .member-info {
-  padding: 10px 15px 20px 15px;
+  padding: 25px 75px 10px 75px;
 }
 
 .team .member .member-info h4 {
-  font-weight: 700;
+  font-weight: 200;
   margin-bottom: 5px;
   font-size: 20px;
   color: #012970;
@@ -1449,7 +1449,7 @@ section {
 .team .member .member-info p {
   font-style: italic;
   font-size: 14px;
-  padding-top: 15px;
+  padding-top: 10px;
   line-height: 26px;
   color: #5e5e5e;
 }
